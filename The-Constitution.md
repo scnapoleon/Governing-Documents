@@ -5,11 +5,11 @@
 We, the students of Juniata College, in order to meet the representative needs of all who attend this institution, do establish the Juniata College Student Government.
  This Student Government shall be an organization dedicated to the communication of student needs and desires to other constituencies of Juniata College, shall convey information regarding the activities of these constituencies to the General Assembly, and shall be responsible for the administration of Student Government funds allocated to campus clubs and organizations.
 
-## Article 1 --- The General Assembly of Students
-#### Section 1 --- Definition
+## Article 1 &mdash; The General Assembly of Students
+#### Section 1 &mdash; Definition
 The General Assembly of Students shall comprise of all full-time students during their term at Juniata and shall be in good academic standing, as defined in the Pathfinder.
 
-#### Section 2 --- General Powers
+#### Section 2 &mdash; General Powers
 **Clause 1**: Members of the General Assembly shall have the right to attend all Senate meetings as well as any meeting of the Executive Committee or Class Cabinets.
 
 **Clause 2**: Members of the General Assembly shall have the power to convene a forum focusing on an issue, given that they have generated a petition of 100 signatures calling for a forum.
@@ -21,11 +21,11 @@ The General Assembly of Students shall comprise of all full-time students during
 
 **Clause 5**: The General Assembly shall have the power to overturn any Senate or Executive Committee decision with a two-thirds vote.
 
-## Article 2 --- The Senate
-#### Section 1 --- Definition
+## Article 2 &mdash; The Senate
+#### Section 1 &mdash; Definition
 The Senate is an elected body comprised of full-time students during their term at Juniata and shall be in good academic standing, as defined in the Pathfinder.
 
-#### Section 2 --- Composite and Electorate
+#### Section 2 &mdash; Composite and Electorate
 **Clause 1**: The Freshmen class shall comprise four seats (four votes) on the Senate and shall consist of a class President, Vice-President, Secretary, and Treasurer.
 
 **Clause 2**: The Sophomore class shall comprise four seats (four votes) on the Senate and shall consist of a class President, Vice-President, Secretary and Treasurer.
@@ -56,7 +56,7 @@ g.
  class officers, specific CIS group), shall nominate a replacement to be confirmed by the Senate.
  See Article 4 for more information.
 
-#### Section 3 --- General Powers
+#### Section 3 &mdash; General Powers
 **Clause 1**: The Senate shall have the right to ratify or reject the budget proposed by the Executive Committee, as well as proposals made by Senate members, the Executive Committee, or the General Assembly.
 
 **Clause 2**: No Senator may miss more than one Senate Meeting per semester.
@@ -71,11 +71,11 @@ g.
  In the event of a tied vote, the Executive Committee President shall cast a vote.
  All Standing Orders and Resolutions from previous years shall be archived.
 
-## Article 3 --- The Executive Committee
-#### Section 1 --- Definition
+## Article 3 &mdash; The Executive Committee
+#### Section 1 &mdash; Definition
 The Executive Committee shall be full-time students during their term at Juniata and shall be in good academic standing, as defined in the Pathfinder.
 
-#### Section 2 --- Composite and Electorate
+#### Section 2 &mdash; Composite and Electorate
 **Clause 1**: The Executive Committee shall consist of six seats including a President, Vice-President, Secretary, Treasurer, Officer of Technology, and Officer of Communications and Policy.
 
 **Clause 2**: The Executive Committee shall be elected by the General Assembly, with the exceptions of the Treasurer, Officer of Technology, and Officer of Communications and Policy, who shall be nominated by the other members of the current Executive Board and the members of the Executive Board elect, and confirmed by the Senate.
@@ -88,7 +88,7 @@ The Executive Committee shall be full-time students during their term at Juniata
  The member shall be removed with the approval of a 2/3 vote of Senate.
  If removal occurs, the Executive Committee shall nominate a replacement to be confirmed by the Senate.
 
-#### Section 3 --- General Powers
+#### Section 3 &mdash; General Powers
 **Clause 1**: The Senate shall have the right to ratify or reject the budget proposed by the Executive Committee, as well as proposals made by Senate members, the Executive Committee, or the General Assembly.
 
 **Clause 1**: No Executive Committee member may concurrently serve as a senator.
@@ -107,16 +107,16 @@ The Executive Committee shall be full-time students during their term at Juniata
 
 **Clause 8**: The Executive Committee shall coordinate all elections of members chosen by the General Assembly.
 
-## Article 4 --- The Ethics Committee
-#### Section 1 --- General Definition
+## Article 4 &mdash; The Ethics Committee
+#### Section 1 &mdash; General Definition
 The Ethics Committee shall consist of Senate members selected by the Executive Committee and shall be formed in the event of a Senate member's suspension from office and review of their standing in Senate *as well as conduct any audit procedures*.
 
-#### Section 2 --- Composite and Electorate
+#### Section 2 &mdash; Composite and Electorate
 The Ethics Committee will consist of five randomly selected uninvolved Senate members.
  The secretary of the Executive Committee will act as the chair.
  If there is a conflict of interest, the Officer of Technology will step in as the chair.
 
-#### Section 3 --- General Powers
+#### Section 3 &mdash; General Powers
 **Clause 1**: The Ethics Committee will convene a meeting within 72 hours of the Senate member being placed on suspension.
  The Senate member under review will attend the meeting and present a statement in his or her defense.
  The Senate member under review must leave the meeting after presenting their statement.
@@ -129,20 +129,20 @@ The Ethics Committee will consist of five randomly selected uninvolved Senate me
 
 **Clause 4**: The chair of the Ethics Committee will notify the Senate member under review of the final decision.
 
-## Article 5 --- The Cabinet of Student Representatives
-#### Section 1 --- General Definition
+## Article 5 &mdash; The Cabinet of Student Representatives
+#### Section 1 &mdash; General Definition
 The Cabinet of Student Representatives shall be full-time students during their term at Juniata and shall be in good academic standing, as defined in the Pathfinder.
 
-#### Section 2 --- Composite and Electorate
+#### Section 2 &mdash; Composite and Electorate
 The Cabinet of Student Representatives is to be nominated by the Executive Committee and confirmed by the Senate to serve on the Board of Trustees, Faculty Committees and Judicial Board.
 
-#### Section 3 --- General Powers
+#### Section 3 &mdash; General Powers
 **Clause 1**: The Cabinet shall report to the Executive Committee.
  The Executive Committee shall share appropriate information with the Senate.
 
 **Clause 2**: No Cabinet member may miss any meetings of the Committee to which he or she is assigned per semester.
 
-## Article 6 --- Constitutional Amendment
+## Article 6 &mdash; Constitutional Amendment
 Amendments to this constitution shall be approved by a two-thirds vote of Senate and a two-thirds vote of the General Assembly.
  To be valid at least 15% of the General Assembly must participate in a vote for this purpose.
  
