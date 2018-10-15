@@ -2,7 +2,7 @@
 # STUDENT GOVERNMENT FINANCIAL BYLAWS
 #### Amended 4/6/15
 
-## Article I &mdash General By-Laws
+## Article I &mdash; General By-Laws
 #### I.
 The Student Government fiscal year will run concurrently with the College, starting  June 1st  and ending May 31st 
 
@@ -15,7 +15,7 @@ Before the spring Board of Trustees meeting, the Executive Committee Treasurer i
 #### IV.
 Every constituency of Student Government must keep accurate, detailed financial records.  The Executive Committee Treasurer and/or the Accounting Office may call for any of these records at any time, and they shall be presented immediately upon request.
 
-## Article II &mdash Student Government Budget
+## Article II &mdash; Student Government Budget
 #### I. 
 All funds allocated to Student Government shall be held in a general Student Government account (21-02001).
 
@@ -27,7 +27,7 @@ The Allocation Board in conjunction with Student Government Senate is the primar
 
 #### IV.	
 The Executive Committee Treasurer is responsible for preparing a current general budget report to be presented at Senate meetings and at Allocation Board meetings.
-## Article II &mdash Student Government Budget
+## Article II &mdash; Student Government Budget
 
 #### I.	
 All funds allocated to Student Government shall be held in a general Student Government account (21-02001).
@@ -41,7 +41,7 @@ The Allocation Board in conjunction with Student Government Senate is the primar
 #### IV.	
 The Executive Committee Treasurer is responsible for preparing a current general budget report to be presented at Senate meetings and at Allocation Board meetings.
 
-## Article III &mdash Student Government Operational Budget
+## Article III &mdash; Student Government Operational Budget
 #### I.	A separate Student Government Executive Committee account (21-02003) will be maintained for the Operational Budget.
 #### II.	Expenses for the Executive Committee, Senate, Allocation Board, RSO Approval Board Cabinet, Judicial Board, and General Assembly must be made from the Operational Budget.
 
@@ -56,7 +56,7 @@ The Executive Committee Treasurer is responsible for preparing a current Operati
 
 ####VII.	
 The Allocation Board has a standing order from the Senate to approve expenses of $1500 or less from the Operational Budget.  Expenses that exceed $1500 will require Senate approval.
-## Article IV &mdash RSO Funding
+## Article IV &mdash; RSO Funding
 #### I.	In order for an RSO to receive funding:
 A.	Results of RSO officer elections must be submitted to the Executive Committee and to the Office of Student Activities.  Changes to officer status must be reported immediately.  
 B.	New or current treasurers must be trained by the Student Government Executive Treasurer or by a representative of the Office of Student Activities.
@@ -82,7 +82,7 @@ F.	All RSO treasurers must return the blue binder and p-card folder to OSA by th
 #### VI.	RSOs may submit a petition for more funding during the current fiscal year, as detailed in Article V.  Special cases are stated below:
 A.	In addition to petitions for more funds during the current fiscal year, JAB may submit a maximum one petition for more funds for the following fiscal year.  This petition may be submitted at any time in the Spring semester.  While the petition will be approved in the current fiscal year, the funds will be transferred from the succeeding fiscal year’s budget at the start of that fiscal year.  
 B.	Permanent RSOs may petition for a maximum of $750 in additional funds per fiscal year.
-## Article V &mdash Allocation Board
+## Article V &mdash; Allocation Board
 #### I.	Purpose:
 ##### A.	The purpose of the Allocation Board is to provide a fair and independent recommendation to the Senate on how to spend and allocate funds in the general Student Government account.  
 
@@ -148,7 +148,7 @@ c.	Shall refrain from inappropriately influencing any Allocation Board decisions
 ##### B.	Emergency meetings may be called by the Executive Committee Treasurer provided a minimum 48-hour notice is given to all members.
 
 ##### C.	All meetings shall be closed to the public.
-## Article VI &mdash Petitions for Student Government Funds
+## Article VI &mdash; Petitions for Student Government Funds
 #### I.	Petitions Received from Registered Student Organizations (RSOs):
 
 ##### A.	Any RSO may petition for more Student Government funds during the current fiscal year.  These requests must be made in writing, using the “Petition for Funds (For RSOs)” found on the Student Government and/or the OSA website.
@@ -190,7 +190,7 @@ b.	In the event of a veto, the Senate will be notified of the Allocation Board�
 
 ##### F.	The Executive Committee Treasurer, on behalf of the Senate or Allocation Board, is responsible for allocating funds to the College constituencies.
 
-## Article VII &mdash Allocation Procedure/Recommended Timeline
+## Article VII &mdash; Allocation Procedure/Recommended Timeline
 #### I.	August - Accounting Office makes appropriate allocations from the general Student Government account to each RSO.
 #### II.	August/September
 ##### A.	Develop a rubric for permissible Allocation requests
