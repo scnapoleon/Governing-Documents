@@ -43,7 +43,7 @@ The Executive Committee Treasurer is responsible for preparing a current general
 
 ## Article III &mdash; Student Government Operational Budget
 #### I.	A separate Student Government Executive Committee account (21-02003) will be maintained for the Operational Budget.
-#### II.	Expenses for the Executive Committee, Senate, Allocation Board, RSO Approval Board Cabinet, Judicial Board, and General Assembly must be made from the Operational Budget.
+#### II.	Expenses for the Executive Committee, Senate, Allocation Board, RSO Approval Board Cabinet, Judicial Board, Projects Committee, SAUR, Policy Committee, and General Assembly must be made from the Operational Budget.
 
 #### III.	The Allocation Board in conjunction with Student Government Senate is the primary controller of the Student Government Operational Budget.
 
