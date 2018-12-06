@@ -1,6 +1,6 @@
 
 # STUDENT GOVERNMENT FINANCIAL BYLAWS
-#### Amended 4/6/15
+#### Amended 2018-12-05
 
 ## Article I &mdash; General By-Laws
 #### I.
