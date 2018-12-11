@@ -479,7 +479,7 @@ C. No Senator may miss more than one Senate Meeting per semester.
 #### II. Removal from Office
 
 A. If any Senator or Cabinet member or Executive Committee member is not fulfilling his/her duties appropriately, the Executive 
-Committee will convene the Ethics Committee to review the Senator or Cabinet member. The Senator or Cabinet member under review will meet with the Ethics Committee to offer a statement in their defense. The Ethics Committee will then deliberate and make a unanimous 
+Committee will convene the Ethics Committee to review the Senator or Cabinet member. The Senator, Executive Commitee member, or Cabinet member under review will meet with the Ethics Committee to offer a statement in their defense. The Ethics Committee will then deliberate and make a unanimous 
 decision to remove the member from their position and this decision is final
 
 B. If any Student Government member is removed from office, the Executive Committee shall nominate a replacement, which shall be 
