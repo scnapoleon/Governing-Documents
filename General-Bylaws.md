@@ -465,7 +465,29 @@ J. Failure to comply with the amendment will result in a meeting with the Dean o
 the event that the offending individuals refuse to meet with the Dean of Students or if the funds are not replayed the Dean of 
 Students may prevent registration and graduation and individuals may be referred to the Judicial Board.
 
-## Article VIII – Rules and Regulations
+## Article VIII Non Student Representatives
+
+#### I. Faculty Representative
+
+A. There may be a Faculty Representative.
+
+B. The Faculty Representative will be appointed by the Faculty.
+
+C. The Faculty Representative will be confirmed by a simple majority of the Senate.
+
+D. The Faculty Representative may not vote in Senate.
+
+E. The Faculty Representative may not serve on Committees.
+
+#### II. Senatorial Advisor(s)
+
+A. There may be at most two advisors to Senate.
+
+B. The advisors may not vote in Senate.
+
+C. The advisors may not serve on Committees. 
+
+## Article IX – Rules and Regulations
 
 #### I. Attendance Policy
 
