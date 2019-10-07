@@ -121,7 +121,7 @@ The Ethics Committee will consist of five randomly selected uninvolved Senate me
  If there is a conflict of interest, the Officer of Technology will step in as the chair.
 
 **Clause 1**: The Ethics Committee will convene a meeting within 72 hours of the Senate member being placed on suspension.
- The Senate member under review will attend the meeting and present a statement in his or her defense.
+ The Senate member under review will attend the meeting and present a statement in their defense.
  The Senate member under review must leave the meeting after presenting their statement.
 
 **Clause 2**: An administration-appointed representative will be present during the Ethics Committee meeting.
